@@ -1,6 +1,4 @@
 
-
-```markdown
 # 🛠️ DataOps Auto-Healer: LLM-Driven Observability & Remediation Engine
 
 <div align="center">
