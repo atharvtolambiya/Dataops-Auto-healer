@@ -1,0 +1,23 @@
+# ============================================================
+# DataOps Auto-Healer — Dependency Manifest
+# ============================================================
+# Install: pip install -r requirements.txt
+# ============================================================
+
+# ------ Phase 1: Foundation ------
+pandas>=2.0.0
+python-dotenv>=1.0.0
+
+# ------ Phase 2: RAG Memory Layer ------
+chromadb>=0.5.0
+
+# ------ Phase 3: GenAI Remediation Agent ------
+langchain>=0.2.0
+langchain-groq>=0.1.0
+langchain-core>=0.2.0
+
+# ------ Phase 4: Safe Executor ------
+# (uses only stdlib: ast, re)
+
+# ------ Phase 5: Streamlit Dashboard ------
+streamlit>=1.35.0

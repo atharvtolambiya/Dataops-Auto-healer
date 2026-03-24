@@ -1,0 +1,9 @@
+customer_id,name,email,amount,transaction_date
+101,Alice Johnson,alice@example.com,150.0,2024-01-15
+102,Bob Smith,bob@example.com,230.5,2024-01-16
+103,Charlie Brown,charlie@example.com,89.99,2024-01-17
+104,Diana Prince,diana@example.com,420.0,2024-01-18
+105,Eve Davis,eve@example.com,310.75,2024-01-19
+106,Frank Castle,frank@example.com,55.25,2024-01-20
+107,Grace Hopper,grace@example.com,780.0,2024-01-21
+108,Hank Pym,hank@example.com,145.3,2024-01-22
