@@ -221,16 +221,16 @@ The dashboard has 5 interactive tabs:
 ### Dashboard Screenshots
 
 #### Overview Tab
-![Overview](screenshots/dashboard_overview.png)
+![Overview](screenshots/dashboard_overview.jpeg)
 
 #### Auto-Heal Demo
-![Auto-Heal](screenshots/auto_heal_demo.png)
+![Auto-Heal](screenshots/auto_heal_demo.jpeg)
 
 #### Diagnostics
-![Diagnostics](screenshots/diagnostics.png)
+![Diagnostics](screenshots/diagnostics.jpeg)
 
 #### Telemetry
-![Telemetry](screenshots/telemetry.png)
+![Telemetry](screenshots/telemetry.jpeg)
 ## 🛡️ Security Architecture
 
 The system implements **defense-in-depth** with three independent security layers:
